@@ -1,8 +1,7 @@
 -----
-
-✨ [https://dhruvdesai407.github.io/weather/](https://dhruvdesai407.github.io/weather/) ✨
-
 # 🌦️ React Weather App - Powered by OpenWeatherMap
+
+## ✨ [https://dhruvdesai407.github.io/weather/](https://dhruvdesai407.github.io/weather/) ✨
 
 This is a simple yet stylish React-based weather application that fetches and displays current weather information for any city you search. It also tries to automatically detect your location on load (more on that journey below\! 😉).
 
