@@ -65,7 +65,7 @@
         transform: translateY(0);
     }
     50% {
-        transform: translateY(-8px); /* Subtle bounce up */
+        transform: translateY(-8px); 
     }
 }
 
@@ -101,7 +101,7 @@
 
 /* Loader styles */
 .loader {
-    border-top-color: #fcd34d; /* Yellow-300 from Tailwind */
+    border-top-color: #fcd34d; 
     border-right-color: transparent;
     border-bottom-color: transparent;
     border-left-color: transparent;
